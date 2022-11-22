@@ -1,14 +1,1 @@
-select difficulty
-
-select number of players
-
-the player that gets 10 rights first wins
-
-one at a time
-
-files:
--data
--player class
--data_reader
--quiz_brain
--main
+this the Quiz game from Python Bootcamp that I am modifying to add more complexity
